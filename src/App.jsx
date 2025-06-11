@@ -8,7 +8,7 @@ const App = () => {
     <div className="app-container">
       <header>
         <h1>🌟 Community Resource Board</h1>
-        <p>Explore helpful resources and upcoming events!</p>
+        <p>Explore helpful resources and upcoming events!!!</p>
       </header>
 
       <div className="card-grid">
