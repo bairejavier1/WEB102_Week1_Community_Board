@@ -58,14 +58,14 @@ const events = [
     {
       id: 9,
       title: "UX/UI Design Crash Course",
-      description: "Explore the principles of user-centered design.",
+      description: "Explore the principles of UX/UI.",
       image: "/images/uxui.jpg",
-      link: "https://uxdesign.cc/"
+      link: "https://www.coursera.org/learn/principles-of-ux-ui-design/paidmedia?specialization=meta-react-native&utm_medium=sem&utm_source=bg&utm_campaign=b2c_namer_meta-react-native_meta_ftcof_specializations_px_dr_bau_bg_sem_pr_us-ca_en_m_x_24-01_x&campaignid=662631061&adgroupid=1242449451694720&device=c&keyword=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprinciples-of-ux-ui-design%2Fpaidmedia%3Fspecialization%3Dmeta-react-native&matchtype=b&network=o&devicemodel=&adposition=&creativeid=77653218500959&adgroup=Meta%20React%20Native%20Specialization%20-%20DSA%20dynamic%20ad%20group&querystring=UX%2FUI&targetid=dat-2329452822982208:loc-190&bidmatchtype=bb&extensionid=&msclkid=2330da97e1cb19d591b1b2ddca6856b5&utm_term=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprinciples-of-ux-ui-design%2Fpaidmedia%3Fspecialization%3Dmeta-react-native&utm_content=Meta%20React%20Native%20Specialization%20-%20DSA%20dynamic%20ad%20group"
     },
     {
       id: 10,
-      title: "Career Q&A Panel",
-      description: "Ask professionals your questions about working in tech.",
+      title: "Future of Tech Careers: Search Smarter, Stay Updated",
+      description: "Ask professionals your questions about working in tech and how to find the right job for you while staying updated with the latest trends and job opportunities.",
       image: "/images/careerpanel.jpg",
       link: "https://www.linkedin.com/"
     }
